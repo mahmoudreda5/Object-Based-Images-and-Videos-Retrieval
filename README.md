@@ -5,7 +5,7 @@ Search for an Object in Large Dataset of Images and Videos using the Object Imag
 ## Dependencies
 This project uses Computer Vision Library for C# (EmguCV2.4.1 and OpenCvSharp3.2), we use OpenCvSharp3.2 only for opening videos because of some issues in EmguCV2.4.1 with videos.
 * .Net FrameWork (C#).
-* EmguCv and OpenCVSharp.
+* EmguCV2.4.1 and OpenCVSharp3.2.
 
 ## Set up development environment
 * clone the repo.
