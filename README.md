@@ -12,6 +12,7 @@ This project uses Computer Vision Library for C# (EmguCV2.4.1 and OpenCvSharp3.2
 * open .sln folder using Visual Studio
 
 * link EmguCV2.4.1 to the project:
+
   *Manual:
     * `download EmguCV2.4.10 from link:https://sourceforge.net/projects/emgucv/files/emgucv/2.4.10/, and install it.`
     * `add .dll files at bin dicrectory from Project->Add Refrence.`
@@ -23,6 +24,7 @@ This project uses Computer Vision Library for C# (EmguCV2.4.1 and OpenCvSharp3.2
     
     
 * link OpenCvSharp3.2 to the project:
+
   *Nuget:
     * `open Package Manger Console from Tools->Library Package Manager.`
     * `PM> Install-Package OpenCvSharp3-AnyCPU -Version 3.2.0.20170126`
